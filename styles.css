@@ -1,10 +1,34 @@
-h3 {
-    text-align: center;
-}
-h1{ 
-text-align: center;
+.body__index{
+    background-color: brown;
 }
 
-h6{ 
+.titulo__index{
+    color: chartreuse;
+    text-align: center;
+    font-size: 100px;
+}
+.titulo__menu{ 
+color: aquamarine;
+text-align: center;
+
+}
+
+.titulo__nosotros{ 
+    color: blueviolet;
+    text-shadow: 1px 1px 1px black;
+    font-size: 60px;
+}
+
+.parrafo__index{
+    font-size: 40px;
+}
+
+.footer__integrantes{
+    color: azure;
+    text-align: center;
+}
+
+.footer__derechosreser{
+    color: bisque;
     text-align: center;
 }
